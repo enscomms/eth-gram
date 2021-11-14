@@ -1,4 +1,4 @@
-# web3-messages
+# eth-gram
 Web3 Messages Application
 
 
